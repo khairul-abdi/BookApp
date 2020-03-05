@@ -1,0 +1,23 @@
+{
+  "name": "BookApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "ejs",
+    "sqlite3",
+    "bootstrap"
+  ],
+  "author": "Khairul Abdi Dongoran",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "sqlite3": "^4.1.0"
+  }
+}
