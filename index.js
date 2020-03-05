@@ -2,6 +2,7 @@ const express = require('express')
 const path = require('path')
 const sqlite3 = require('sqlite3').verbose()
 
+
 // Creation of the Express server
 const app = express()
 
